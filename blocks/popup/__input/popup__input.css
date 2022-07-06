@@ -14,17 +14,21 @@
   transition: 0.2s ease;
 }
   
+.popup__input:nth-child(1) {
+  margin-bottom: 30px;  
+}
+
 .popup__input:hover {
   opacity: 0.5;
 }
   
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 620px) {
   .popup__input_profession {
     margin-bottom: 45px;
   }
 }
   
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 620px) {
   .popup__input_name {
     margin-bottom: 30px;
   }

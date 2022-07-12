@@ -4,6 +4,7 @@
   align-items: center;
   font-family: 'Inter', Arial, Helvetica, sans-serif;
   width: 100%;
+  min-height: 100vh;
   margin: 0;
   padding: 0;
   -webkit-font-smoothing: antialiased;

@@ -9,10 +9,10 @@
   
 }
 
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 770px) {
   .profile__info {
-    margin: 26px auto 0;
-    gap: 8px 10px;
-    transform: translateX(12px);
+    margin: 2px auto 0;
+    gap: 9px 10px;
+    transform: translateX(13px);
   }
 }

@@ -7,9 +7,10 @@
   object-fit: cover;
 }
   
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 770px) {
   .profile__image {
-    margin-bottom: 26px;
-    margin-top: 42px;
+    margin-bottom: 25px;
+    margin-top: 43px;
+    padding-left: 1px;
   }
 }

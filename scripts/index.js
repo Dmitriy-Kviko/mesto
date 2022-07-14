@@ -14,7 +14,7 @@ let popupForm = document.querySelector('.popup__form');
 function openPopup() { 
     popup.classList.add('popup_opened'); 
     popupNameInput.value = popupProfileName.textContent; 
-    popupProfession.value = popupProfession.textContent; 
+    popupProfessionInput.value = popupProfession.textContent; 
 };
  
 //закрть попап

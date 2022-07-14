@@ -4,7 +4,7 @@
     "name button"
     "note .";
   align-items: center;
-  gap: 16px 18px;
+  gap: 0 18px;
   margin-left: 30px;
   
 }
@@ -15,4 +15,11 @@
     gap: 9px 10px;
     transform: translateX(13px);
   }
+}
+
+@media screen and (max-width: 620px) {
+  .profile__info {
+    margin: 0;
+    gap: 9px 10px;
+    }
 }

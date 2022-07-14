@@ -9,6 +9,7 @@
   overflow: hidden;
   word-wrap: break-word;
   max-width: 500px;
+  margin-bottom: 7px;
 }
 
 @media screen and (max-width: 770px) {

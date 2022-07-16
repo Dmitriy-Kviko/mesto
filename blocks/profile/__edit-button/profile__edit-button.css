@@ -30,5 +30,6 @@
 @media screen and (max-width: 620px) {
   .profile__edit-button {
     margin-bottom: 0;
+    background-image: url(../../../images/edit_button_small.svg);
   }
 }

@@ -29,5 +29,6 @@
     .profile__add-button {
       width: 282px;
       margin-top: 26px;
+      background-image: url(../../../images/add_button_small.svg);
     }
   }
